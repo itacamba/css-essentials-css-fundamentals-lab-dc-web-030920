@@ -13,5 +13,6 @@ nav {
 }
 nav a {
   background: rgba(0,0,0,.2);
-  text-align: center;
+  width: 100%;
+  margin: 0 auto;
 }
