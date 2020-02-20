@@ -4,10 +4,9 @@ body {
   margin: 0;
 }
 h1 {
-  background: red;
   color:black;
   width:100%;
-  margin: 0 auto;
+  text-align: center;
 }
 nav a {
   background: #666666;
