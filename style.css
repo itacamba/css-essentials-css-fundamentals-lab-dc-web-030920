@@ -31,5 +31,5 @@ figcaption {
 #details {
   background-color: red;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;;
 }
