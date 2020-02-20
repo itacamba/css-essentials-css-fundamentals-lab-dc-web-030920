@@ -33,6 +33,6 @@ figcaption {
   display: flex;
   justify-content: space-around;;
 }
-#details h3{
-  text-align: center;;
+#details h3,a,p{
+  text-align: center;
 }
