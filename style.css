@@ -4,5 +4,8 @@ body {
   margin: 0;
 }
 h1 {
-  color:red
+  color:black
+}
+nav a {
+  background: #666666;
 }
