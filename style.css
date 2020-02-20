@@ -6,7 +6,7 @@ body {
 h1 {
   color:black;
   width:100%;
-  margin: auto;
+  margin: 0 auto;
 }
 nav a {
   background: #666666;
