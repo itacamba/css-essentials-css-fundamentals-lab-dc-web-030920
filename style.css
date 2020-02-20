@@ -13,5 +13,5 @@ nav {
 }
 nav a {
   background: rgba(0,0,0,.2);
-  margin: 0 auto;
+  text-align: center;
 }
