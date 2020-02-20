@@ -29,5 +29,6 @@ figcaption {
   padding: 0  60px;
 }
 #details {
+  background-color: red;
   display: flex;
 }
