@@ -10,8 +10,7 @@ h1 {
 }
 nav {
   width: 100%;
-  background: red;
-  text-align: center;;
+  text-align: center;
 }
 nav a {
   background: rgba(0,0,0,.2);
